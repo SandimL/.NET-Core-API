@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hahn.ApplicatonProcess.February2021.Data": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "baseUrlCountryApi": "restcountries.eu/rest/v2/"
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+2021-05-31 17:33:26.346 -04:00 [Information] API interaction on POST, Asset received: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:26.405 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:33:26.601 -04:00 [Information] Asset added: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:26.665 -04:00 [Information] Saved changes
+2021-05-31 17:33:29.149 -04:00 [Information] API interaction on POST, Asset received: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:29.150 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:33:29.152 -04:00 [Information] Asset added: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:29.153 -04:00 [Information] Saved changes
+2021-05-31 17:33:30.486 -04:00 [Information] API interaction on POST, Asset received: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:30.487 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:33:30.487 -04:00 [Information] Asset added: Hahn.ApplicatonProcess.February2021.Domain.Models.Assets.Asset
+2021-05-31 17:33:30.489 -04:00 [Information] Saved changes
+2021-05-31 17:38:47.824 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:38:47.883 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:38:47.886 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:22.970 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:43:23.030 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:43:23.033 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:23.370 -04:00 [Information] Asset not found
+2021-05-31 17:43:32.390 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:43:32.391 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:43:32.391 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:32.402 -04:00 [Information] Asset not found
+2021-05-31 17:43:33.165 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:43:33.166 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:43:33.166 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:33.168 -04:00 [Information] Asset not found
+2021-05-31 17:43:37.131 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:43:37.131 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:43:37.132 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:37.133 -04:00 [Information] Asset not found
+2021-05-31 17:43:37.892 -04:00 [Information] API interaction on GET, Asset id: 1
+2021-05-31 17:43:37.892 -04:00 [Information] Started a new AssetRepository
+2021-05-31 17:43:37.893 -04:00 [Information] Id of the asset searched: 1
+2021-05-31 17:43:37.893 -04:00 [Information] Asset not found
